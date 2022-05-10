@@ -14,7 +14,7 @@ class Program
         var addedNumber = 0;
         var answer = 0;
 
-        Console.Write("Multiplcation using loops:\n");
+        Console.Write("Multiplication using loops:\n");
         Console.Write("Input first integer: ");
         counter1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Input second integer: ");
