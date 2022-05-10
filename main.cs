@@ -19,7 +19,7 @@ class Program
         counter1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Input second integer: ");
         counter2 = Convert.ToInt32(Console.ReadLine());
-        
+
         if (counter1 > 0 && counter2 > 0) {
             while (addedNumber < counter2) {
                 addedNumber = addedNumber + 1;
